@@ -1,0 +1,43 @@
+.containar {
+        
+      
+}
+
+.input {
+        padding: 10px;
+        border: 2px solid gold;
+        border-radius: 10px;
+
+        margin-top: 10px;
+        width: 100%;
+
+}
+
+ label {
+
+        
+color: goldenrod;
+        font-weight: bold;
+
+}
+
+.submit-btn {
+        margin-top: 30px;
+        padding: 8px 20px;
+       max-width: fit-content;
+        border-radius: 8px;
+        background: linear-gradient(to right, #f7f450, #ff9513);
+        font-weight: bold;
+        color: rgb(240, 248, 255);
+        font-size: 25px;
+        
+}
+
+.form {
+        width: 800px;
+}
+
+.input-dev {
+
+        width: 50%;
+}
